@@ -1,3 +1,3 @@
-# Test Android Plugin With Unity
+# Unity Android Plugin
 
 Testing android plugin, get Battery level and Toast Message 
